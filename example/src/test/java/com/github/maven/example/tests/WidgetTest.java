@@ -6,6 +6,9 @@ import static org.junit.Assert.assertTrue;
 import com.github.maven.example.Widget;
 
 import org.junit.Test;
+/**
+* Welcome to DevOps
+*/
 
 /**
  * Unit tests of {@link Widget} class
