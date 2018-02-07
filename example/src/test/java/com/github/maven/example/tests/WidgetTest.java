@@ -7,7 +7,7 @@ import com.github.maven.example.Widget;
 
 import org.junit.Test;
 /**
-* Welcome to DevOps
+* Welcome to Limeyard
 */
 
 /**
